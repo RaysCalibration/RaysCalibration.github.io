@@ -1,0 +1,7 @@
+Rays Calibration website
+
+Open index.html in a browser to preview the website locally.
+Keep the assets and Downloads folders beside index.html.
+
+No installation is required for a local preview.
+External links such as Google Maps require internet access.
